@@ -200,8 +200,8 @@ MIT License - See LICENSE file for details
 
 ## Contact
 
-**Imam Uddin Mohammed**  
-[LinkedIn](https://www.linkedin.com/in/imamuddinmohammed/) | [GitHub](https://github.com/itsmiu)
+**Sai Charan Aamraneni**  
+[LinkedIn](https://www.linkedin.com/in/sai-charan-amaraneni-444570259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVzm7O%2BkQR5Sflxw9kreBbA%3D%3D/) | [GitHub](https://github.com/saicharanamaraneni18-source)
 
 ---
 
