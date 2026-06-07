@@ -1,6 +1,6 @@
 # Phishing Incident Response Simulation & Playbook
 
-**Author**: Imam Uddin Mohammed  
+**Author**: Sai Charan Amaraneni 
 **Project Duration**: 02-03-2026 to 02-07-2026 (5 days)  
 **Status**: Complete
 
