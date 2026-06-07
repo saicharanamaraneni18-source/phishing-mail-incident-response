@@ -196,7 +196,7 @@ python3 scripts/generate_blocklist.py iocs/enriched_iocs_*.json
 
 ## License
 
-MIT License - See LICENSE file for details
+MIT License 
 
 ## Contact
 
